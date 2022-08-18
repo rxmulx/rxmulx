@@ -1,4 +1,4 @@
-### Oi seja bem vindo(a)🖖 ![transparent-samurai-warrior-cartoon-52650-153408](https://user-images.githubusercontent.com/78929942/185486964-d310bba7-ed7e-47b7-9f79-484251c3a06b.png width="30px")
+### Oi seja bem vindo(a)🖖 <img src="https://user-images.githubusercontent.com/78929942/185486964-d310bba7-ed7e-47b7-9f79-484251c3a06b.png" width="30px")
 
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
