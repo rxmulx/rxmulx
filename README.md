@@ -17,8 +17,7 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxmulx)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxmulx&theme=dark&show_icons=true&hide=contribs,prs,issues,stars)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)-->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxmulx)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxmulx&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
