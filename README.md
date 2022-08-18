@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rxmulx&theme=dark_dimmed)](https://github.com/rxmulx/github-profile-trophy)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxmulx)](https://github.com/anuraghazra/github-readme-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxmulx&theme=dark&show_icons=true&hide=contribs,prs,issues,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxmulx&theme=dark&show_icons=true&hide=contribs,prs,issues,stars) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxmulx&theme=dark)](https://git.io/streak-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxmulx&theme=dark)](https://git.io/streak-stats)
 
