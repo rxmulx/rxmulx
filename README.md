@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/78929942/185477457-fbf6fb05-f3c3-4ca9-8b75-35efb26b9ff8.png)
 
-::marker Trabalhando com React e typescript.
+Trabalhando com React e typescript.
 
 Codar pra mim é mais doque um trabalho é uma paixão👨‍💻.
 
