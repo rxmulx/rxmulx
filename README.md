@@ -1,4 +1,8 @@
-### Hi there 👋
+### Me chamo Rômulo sou Dev Front-end 🚀🚀
+
+Trabalhando com React e typescript.
+
+Codar pra mim é mais doque um trabalho é uma paixão👨‍💻.
 
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
