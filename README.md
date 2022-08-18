@@ -1,4 +1,5 @@
 ![banner (1)](https://user-images.githubusercontent.com/78929942/185485202-cfd0fb0c-1b42-43ef-abfc-6986841f8760.png)
+### Oi seja bem vindo(a)🖖![transparent-samurai-warrior-cartoon-52650-153408](https://user-images.githubusercontent.com/78929942/185486964-d310bba7-ed7e-47b7-9f79-484251c3a06b.png width="30px")
 
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
