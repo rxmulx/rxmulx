@@ -1,6 +1,8 @@
 
 # Oi seja bem vindo(a)🖖 
+![3cdf43ef2a0b1cf5c452abc0392feda1](https://user-images.githubusercontent.com/78929942/185489090-3d717cae-9132-4e52-9cc8-fdb4250d2c81.png)
 ### me chamo Rômulo, tenho 20anos atualmente de SP
+
 
 - 🧑‍💻Desenvolvedor Front-end
 - Atualemente Trabalho com Reactjs 
