@@ -1,7 +1,7 @@
 <img style="margin-top" align="right" width="400px" src="https://user-images.githubusercontent.com/78929942/185486964-d310bba7-ed7e-47b7-9f79-484251c3a06b.png")
 ### Oi seja bem vindo(a)🖖 
      
-![transparent-samurai-warrior-cartoon-52650-153408](https://user-images.githubusercontent.com/78929942/185488035-23bc89e2-e664-4f51-a01c-1cd94506d6f1.png)
+![transparent-samurai-warrior-cartoon-52650-153408](https://user-images.githubusercontent.com/78929942/185488035-23bc89e2-e664-4f51-a01c-1cd94506d6f1.png width="400px" )
 
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
