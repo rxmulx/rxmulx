@@ -1,4 +1,5 @@
-<img align="right" width="300" src="https://user-images.githubusercontent.com/78929942/185489090-3d717cae-9132-4e52-9cc8-fdb4250d2c81.png">
+<img style="margin-top:40px" align="right" width="300" src="https://user-images.githubusercontent.com/78929942/185489090-3d717cae-9132-4e52-9cc8-fdb4250d2c81.png">
+
 # Oi seja bem vindo(a)🖖 
 
 ### me chamo Rômulo, tenho 20anos atualmente de SP
