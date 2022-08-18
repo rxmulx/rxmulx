@@ -2,7 +2,7 @@
 
 # Oi seja bem vindo(a)🖖 
 
-### me chamo Rômulo, tenho 20 anos moro atualmente de SP
+### Me chamo Rômulo. tenho 20 anos e moro atualmente em SP
 
 
 - 🧑‍💻Desenvolvedor Front-end
