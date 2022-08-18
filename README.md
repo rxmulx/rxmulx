@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/78929942/185483481-6ebcda4d-abab-41eb-a1bb-14077eb2efa5.png)
+![banner (1)](https://user-images.githubusercontent.com/78929942/185485202-cfd0fb0c-1b42-43ef-abfc-6986841f8760.png)
 
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
