@@ -1,8 +1,4 @@
-![header](https://user-images.githubusercontent.com/78929942/185477457-fbf6fb05-f3c3-4ca9-8b75-35efb26b9ff8.png)
-
-Trabalhando com React e typescript.
-
-Codar pra mim é mais doque um trabalho é uma paixão👨‍💻.
+![banner](https://user-images.githubusercontent.com/78929942/185483481-6ebcda4d-abab-41eb-a1bb-14077eb2efa5.png)
 
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
