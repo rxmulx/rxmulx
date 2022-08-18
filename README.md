@@ -12,6 +12,8 @@
 
 # Tools i know! <img width="30px" src="https://user-images.githubusercontent.com/78929942/185494063-6c3591e1-d055-4ac0-b6d1-c37cad72eb85.png">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxmulx)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rxmulx/rxmulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
