@@ -13,7 +13,7 @@
   <p align="left">
 
 <a href="https://www.linkedin.com/in/r%C3%B4mulo-silva-8363301a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
-<a href="https://www.instagram.com/iamromulera.js/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40"/></a>
+
 
 
 # Tools i know! <img width="30px" src="https://user-images.githubusercontent.com/78929942/185494063-6c3591e1-d055-4ac0-b6d1-c37cad72eb85.png">
