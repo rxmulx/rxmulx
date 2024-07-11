@@ -13,7 +13,9 @@
   <p align="left">
 
 <a href="https://www.linkedin.com/in/r%C3%B4mulo-silva-8363301a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
-<a href="" target="blank"><img align="center" src="https://chris-ayers.com/assets/images/vscode-ghactions.png" height="30" width="40"/></a>
+<a href="" target="blank"><img align="center" src="https://chris-ayers.com/assets/images/vscode-ghactions.png" height="30" width="40"/></a> 
+
+### Acesse meu perfil novo no github acima ☝️
 
 
 
